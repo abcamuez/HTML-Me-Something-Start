@@ -1,1 +1,37 @@
 /* Write your CSS here! */
+
+#mainHeading {
+    text-align: center;
+    color: #FF652F;
+    font-size: 40px;
+}
+
+.funParagraph {
+    font-size: 20px;
+    color:aqua;
+    text-decoration: underline aqua 2px;
+}
+
+body {
+    background-color: #272727;
+    margin: 8px;
+    display: block;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    
+}
+
+img {
+    padding: 50px;
+    border-radius: 5pc;
+    width: 550px;
+    height: 450px;
+}
